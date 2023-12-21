@@ -1,4 +1,5 @@
 # 🎵 Melodify
+![melodify logo](https://github.com/Z33ZO/Melodify/assets/144247750/66ec148d-50d7-4ee8-8f84-81791abe95b2)
 
 ---
 ## Table of contents
